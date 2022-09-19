@@ -12,4 +12,4 @@ The examples are interactive. You can change any part of the code in the provide
 
 **Bloch Model-Based Reconstruction Tutorial**
 - [Jupyter Notebook](./bart-bloch-tutorial.ipynb)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bloch-tutorial/blob/master/bart-bloch-tutorial.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bloch-tutorial/blob/main/bart-bloch-tutorial.ipynb)
