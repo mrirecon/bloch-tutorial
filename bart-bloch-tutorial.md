@@ -93,7 +93,7 @@ We compile BART with some settings for running it on the GPU on Google Colab.
 
 ```bash id="itZOCWs52N66"
 
-BRANCH=master
+BRANCH=v0.8.00
 
 cd bart
 
