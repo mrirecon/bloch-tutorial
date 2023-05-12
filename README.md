@@ -13,3 +13,9 @@ The examples are interactive. You can change any part of the code in the provide
 **Bloch Model-Based Reconstruction Tutorial**
 - [Jupyter Notebook](./bart-bloch-tutorial.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bloch-tutorial/blob/main/bart-bloch-tutorial.ipynb)
+
+
+### License
+This work is licensed under a **Creative Commons Attribution 4.0 International License**.
+You should have received a copy of the license along with this
+work. If not, see <https://creativecommons.org/licenses/by/4.0/>.
