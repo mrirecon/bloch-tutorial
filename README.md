@@ -1,3 +1,6 @@
+**The main repository has moved to: https://gitlab.tugraz.at/ibi/mrirecon/tutorials/bloch-tutorial**
+
+
 # Tutorial: Bloch Model-Based Reconstruction in BART
 
 This tutorial provides guidance of how to run the Bloch model-based reconstruction with the BART toolbox. It presents examples for an IR bSSFP and IR FLASH reconstruction. In both cases a simulated digital reference object is created and the parameter maps for $T_1$, $T_2$ and $FA_{\text{rel}}$ are compared to references.
